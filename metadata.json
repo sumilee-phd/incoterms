@@ -1,0 +1,6 @@
+{
+  "name": "인코텀즈 조건 추천 실무 앱",
+  "description": "수출입 거래 조건을 입력하면 적합한 인코텀즈 2020 조건을 추천하고, 주요 조건의 차이를 초급자가 바로 이해할 수 있게 보여주는 교육용 실무 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
